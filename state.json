@@ -1,0 +1,33 @@
+{
+  "used_topics": [
+    "eiffel_tower_growth",
+    "space_smell",
+    "deep_sea_vents"
+  ],
+  "published": [
+    {
+      "ts": "20260911_205141",
+      "topic": "eiffel_tower_growth",
+      "title": "Eiffel Tower Grows in Summer? #shorts",
+      "path": "F:\\FreeFaceless\\output\\20260911_205141_eiffel-tower-growth\\final.mp4",
+      "video_id": null,
+      "publish_at": null
+    },
+    {
+      "ts": "20260911_205420",
+      "topic": "space_smell",
+      "title": "What Does Space Really Smell Like? #shorts",
+      "path": "F:\\FreeFaceless\\output\\20260911_205420_space-smell\\final.mp4",
+      "video_id": null,
+      "publish_at": null
+    },
+    {
+      "ts": "20260911_221950",
+      "topic": "deep_sea_vents",
+      "title": "The Hot, Dark Worlds of Deep\u2011Sea Vents #shorts",
+      "path": "F:\\FreeFaceless\\output\\20260911_221950_deep-sea-vents\\final.mp4",
+      "video_id": null,
+      "publish_at": null
+    }
+  ]
+}
